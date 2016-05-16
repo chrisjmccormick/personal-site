@@ -4,7 +4,7 @@ relative_permalinks: false
 
 # Setup
 title:               Chris McCormick
-url:                 http://chrisjmccormick.github.io/personal-site
+url:                 http://mccormickml.com/personal-site
 timezone:            America/Los_Angeles
 paginate:            1
 
