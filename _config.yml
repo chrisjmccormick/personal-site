@@ -1,0 +1,39 @@
+# Permalinks
+permalink:           pretty
+relative_permalinks: false
+
+# Setup
+title:               Chris McCormick
+url:                 http://chrisjmccormick.github.io/personal-site
+timezone:            America/Los_Angeles
+paginate:            1
+
+# Assets
+#
+# We specify the directory for Jekyll so we can use @imports.
+sass:
+  sass_dir:          _sass
+  style:            :compressed
+
+# About/contact
+author:
+  name:              Chris McCormick
+  url:               https://twitter.com/chrisjmccormick
+  email:             chrisjmccormick@gmail.com
+  
+# Custom vars
+version:             2.0.0
+github:
+  repo:              https://github.com/chrisjmccormick/personal-site
+
+# This is the list of pages to include in the header of the website.
+pages_list:       
+  About: '/about/'
+  Auto: '/auto/'
+  Archive: '/archive/'
+
+# Gems
+gems:
+  - jekyll-paginate
+  - jekyll-gist
+
