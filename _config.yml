@@ -37,3 +37,5 @@ gems:
   - jekyll-paginate
   - jekyll-gist
 
+# Enable Google Analytics
+analytics_id:       UA-76624103-2
