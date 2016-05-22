@@ -4,7 +4,7 @@ relative_permalinks: false
 
 # Setup
 title:               Chris McCormick
-url:                 http://mccormickml.com/personal-site
+url:                 http://chrisdoesthings.com
 timezone:            America/Los_Angeles
 paginate:            1
 
