@@ -10,14 +10,14 @@ I've been exploring the seed 'bigworldcivilization' on Xbox 360 Minecraft, and I
 
 Just to the south east of the spawn point is a small village at (36, 72, 369), we'll call this village #1.
 
-![small_village]({site.url}/_assets/minecraft/bigworldcivilization - small village.jpg)
+![village_1]({{ site.url }}/assets/minecraft/village_1.jpg)
 
 Farther north of that is a larger village at (291, 67, 113), we'll call this village #2.
 
-![large_village]({site.url}/_assets/minecraft/bigworldcivilization - large village.jpg)
+![village_2]({{ site.url }}/assets/minecraft/village_2.jpg)
 
 And even farther north is a third village at (282, 69, -140), which I'll call village #3.
-![village_3]({site.url}/_assets/minecraft/village_3.jpg)
+![village_3]({{ site.url }}/assets/minecraft/village_3.jpg)
 
 Village #1
 ==========
