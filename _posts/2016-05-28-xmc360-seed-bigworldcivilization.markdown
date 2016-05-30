@@ -16,6 +16,9 @@ Farther north of that is a larger village at (291, 67, 113), we'll call this vil
 
 ![large_village]({site.url}/_assets/minecraft/bigworldcivilization - large village.jpg)
 
+And even farther north is a third village at (282, 69, -140), which I'll call village #3.
+![village_3]({site.url}/_assets/minecraft/village_3.jpg)
+
 Village #1
 ==========
 
