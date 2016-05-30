@@ -41,4 +41,21 @@ Gold:
 * (34, 14, 318) - 7 blocks
 * (41, 14, 335)
 
+Village #2
+==========
+Directly below this village is a long, deep ravine, starting around depth Y 53
+
+Note that I had trouble finding diamond near this village. There's a lot of lava down near the bedrock.
+
+Other things of interest
+========================
+Entrances to cave systems with exposed resources:
+
+* (119, 62, 27)
+* (101, 62, 109)
+* (101, 61, 331)
+
+Portal to End (-47, 33, 139)
+
+
 I'll continue to update this as I find more stuff!
