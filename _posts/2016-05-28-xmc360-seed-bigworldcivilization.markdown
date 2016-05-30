@@ -17,7 +17,7 @@ Farther north of that is a larger village at (291, 67, 113), we'll call this vil
 ![village_2]({{ site.url }}/assets/minecraft/village_2.jpg)
 
 And even farther north is a third village at (282, 69, -140), which I'll call village #3.
-[![village_3]("Screenshot of Village #3)](village_3)
+[![village_3]({{ site.url }}/assets/minecraft/village_3.jpg "Screenshot of Village #3)]({{ site.url }}/assets/minecraft/village_3.jpg)
 
 Village #1
 ==========
@@ -66,5 +66,3 @@ Portal to End (-47, 33, 139)
 
 
 I'll continue to update this as I find more stuff!
-
-[village_3]: {{ site.url }}/assets/minecraft/village_3.jpg
