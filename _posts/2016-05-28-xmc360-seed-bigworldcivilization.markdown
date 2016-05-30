@@ -17,7 +17,7 @@ Farther north of that is a larger village at (291, 67, 113), we'll call this vil
 ![village_2]({{ site.url }}/assets/minecraft/village_2.jpg)
 
 And even farther north is a third village at (282, 69, -140), which I'll call village #3.
-![village_3]({{ site.url }}/assets/minecraft/village_3.jpg)
+[![village_3]("Screenshot of Village #3)](village_3)
 
 Village #1
 ==========
@@ -45,7 +45,14 @@ Village #2
 ==========
 Directly below this village is a long, deep ravine, starting around depth Y 53
 
+[ravine_village_2]({{ site.url }}/assets/minecraft/ravine_village_2.jpg "The ravine below Village #2")
+
 Note that I had trouble finding diamond near this village. There's a lot of lava down near the bedrock.
+
+Village #3
+==========
+This village has a blacksmith with 2 diamonds in his chest.
+
 
 Other things of interest
 ========================
@@ -59,3 +66,5 @@ Portal to End (-47, 33, 139)
 
 
 I'll continue to update this as I find more stuff!
+
+[village_3]: {{ site.url }}/assets/minecraft/village_3.jpg
