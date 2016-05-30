@@ -37,17 +37,27 @@ Gold:
 * (34, 14, 318) - 7 blocks
 * (41, 14, 335)
 
+Sugar cane: (109, 63, 339)
+Entrance to a cave system with a lot of exposed resources: (101, 61, 331)
+
 Village #2
 ==========
 Farther north of village #1 is a larger village at (291, 67, 113), we'll call this village #2.
 
-[![village_2]({{ site.url }}/assets/minecraft/village_2.jpg "Screenshot of Village #2)]({{ site.url }}/assets/minecraft/village_2.jpg)
+[![village_2]({{ site.url }}/assets/minecraft/village_2.jpg "Screenshot of Village #2")]({{ site.url }}/assets/minecraft/village_2.jpg)
 
 Directly below this village is a long, deep ravine, starting around depth Y 53
 
 [ravine_village_2]({{ site.url }}/assets/minecraft/ravine_village_2.jpg "The ravine below Village #2")
 
 Note that I had trouble finding diamond near this village. There's a lot of lava down near the bedrock.
+
+Gold:
+
+* (252, 12, 102)
+* (296, 20, 137) - 8 blocks
+* (344, 5, 105)
+
 
 Village #3
 ==========
@@ -64,7 +74,7 @@ Entrances to cave systems with exposed resources:
 
 * (119, 62, 27)
 * (101, 62, 109)
-* (101, 61, 331)
+
 
 Portal to End (-47, 33, 139)
 
