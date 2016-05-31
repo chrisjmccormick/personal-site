@@ -93,6 +93,10 @@ Questions:
   * I remember reading about having to drill out posts or studs... Where did that come from?
 
     
+## Reseting the Emissions Tests
+
+Drive cycle:
+http://www.obdii.com/drivecycle.html
     
 ## Script
 

@@ -23,7 +23,7 @@ Here are some locations around this village.
 Diamond:
 
 * (-44, 4, 400)
-* (26, 4, 401)
+* (26, 4, 401) - 4 blocks
 * (37, 4, 367)
 
 Emerald:
