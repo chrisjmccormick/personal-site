@@ -6,11 +6,11 @@ comments: true
 tags: Xbox 360 Minecract, TU35, seed, minecraft
 ---
 
-I've been exploring the seed 'bigworldcivilization' on Xbox 360 Minecraft (version TU35), and I wanted to share the locations of the villages, points of interest, diamonds, etc. that I've found.
+I'm making a run at the Ender Dragon using the seed 'bigworldcivilization' on Xbox 360 Minecraft (version TU35), and I wanted to share the locations of the villages, points of interest, diamonds, etc. that I've found.
 
-I'm currently playing on version TU35. 'bigworldcivilization' was originally recommended for TU31--I think it's changed since then, but there's still some good stuff in it.
+This seed has no less than *five* villages in it! There's also a large abandoned mineshaft towards the upper middle of the map that includes a zombie spawner. 
 
-I've found three villages in this map so far...
+Note that all of these details are from version TU35 (April 19th, 2016). If another big update comes out eventually that affects the seed generation, this post will no longer be valid.
 
 Village #1
 ==========
@@ -18,13 +18,18 @@ Just to the south east of the spawn point is a small village at (36, 72, 369), w
 
 [![village_1]({{ site.url }}/assets/minecraft/village_1.jpg "Screenshot of Village #1")]({{ site.url }}/assets/minecraft/village_1.jpg)
 
-Here are some locations around this village.
+There is a librarian here who will give you emeralds for paper, so I set up a sugar cane farm. I found some sugar cane nearby at (109, 63, 339).
+
+Just over a nearby hill, there is an entrance to a cave system with a lot of exposed resources: (101, 61, 331)
+
+This village is surrounded by *every* kind of animal--cows, sheep, pigs, chickens, wolves, and horses.
 
 Diamond:
 
-* (-44, 4, 400)
 * (26, 4, 401) - 4 blocks
-* (37, 4, 367)
+* (37, 4, 367) - 3 blocks
+* (50, 6, 367) - 4 blocks
+* (-44, 4, 400)
 
 Emerald:
 
@@ -37,8 +42,6 @@ Gold:
 * (34, 14, 318) - 7 blocks
 * (41, 14, 335)
 
-Sugar cane: (109, 63, 339)
-Entrance to a cave system with a lot of exposed resources: (101, 61, 331)
 
 Village #2
 ==========
@@ -67,16 +70,63 @@ And even farther north is a third village at (282, 69, -140), which I'll call vi
 
 This village has a blacksmith with 2 diamonds in his chest.
 
+Diamond:
 
-Other things of interest
-========================
-Entrances to cave systems with exposed resources:
-
-* (119, 62, 27)
-* (101, 62, 109)
+* (342, 3, -188) - 1 block
 
 
-Portal to End (-47, 33, 139)
+Village #4
+==========
+
+At (27, 66, -252).
+
+[![village_4]({{ site.url }}/assets/minecraft/village_4.jpg "Screenshot of Village #3")]({{ site.url }}/assets/minecraft/village_4.jpg)
+
+* Blacksmith chest has 2 diamond and a saddle.
+
+Village #5
+==========
+At (-190, 72, -204).
+
+[![village_5]({{ site.url }}/assets/minecraft/village_5.jpg "Screenshot of Village #3")]({{ site.url }}/assets/minecraft/village_5.jpg)
+
+Abandoned Mineshaft
+===================
+Large abandoned mineshaft: (114, 31, -333)
+
+[![abandoned_mineshaft]({{ site.url }}/assets/minecraft/abandoned_mineshaft.jpg "Screenshot of Village #3")]({{ site.url }}/assets/minecraft/abandoned_mineshaft.jpg)
+
+* Zombie spawner: (88, 31, -376)
+  * In the chests next to the spawner: 3 saddles and iron horse armor.
+ 
+Diamond:
+
+* (173, 13, -416) - 3 blocks
+
+
+
+Nether Fortress
+===============
+A portal at (171, 68, 388) in the overworld should get you close to the blaze spawners.
+
+[![nether_fortress]({{ site.url }}/assets/minecraft/nether_fortress.jpg "Screenshot of Village #3")]({{ site.url }}/assets/minecraft/nether_fortress.jpg)
+
+* Blaze spawner at (87, 71, 103) with another nearby.
+* Chest with diamond horse armor and 2 saddles at (37, 83, 29)
+* Chest with 3 diamonds and iron horse armor at (51, 83, 15)
+* Chest with 2 gold horse armor at (128, 54, 33)
+
+Miscellaneous
+=============
+
+* Entrances to cave systems with exposed resources:
+  * (119, 62, 27)
+  * (101, 62, 109)
+* Portal to End (-47, 33, 139)
+* Skeleton spawner: (365, 57, -207)
+* Jungle biome with watermelon at (-19, 71, -388) (center of top of map).
+* Peony on an island at (-355, 70, -14)
+* I don't see any ocean temples or monuments.
 
 
 I'll continue to update this as I find more stuff!
