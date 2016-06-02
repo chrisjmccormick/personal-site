@@ -12,6 +12,10 @@ This seed has no less than *five* villages in it! There's also a large abandoned
 
 Note that all of these details are from version TU35 (April 19th, 2016). If another big update comes out eventually that affects the seed generation, this post will no longer be valid.
 
+Here is the world map:
+
+[![world_map]({{ site.url }}/assets/minecraft/world_map.jpg "Screenshot of the World Map")]({{ site.url }}/assets/minecraft/world_map.jpg)
+
 Village #1
 ==========
 Just to the south east of the spawn point is a small village at (36, 72, 369), we'll call this village #1.
