@@ -28,6 +28,8 @@ Just over a nearby hill, there is an entrance to a cave system with a lot of exp
 
 This village is surrounded by *every* kind of animal--cows, sheep, pigs, chickens, wolves, and horses.
 
+Far down below the village is a skeleton spawner: (45, 18, 359) 
+
 Diamond:
 
 * (26, 4, 401) - 4 blocks
