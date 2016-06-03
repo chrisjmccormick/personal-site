@@ -57,7 +57,7 @@ Farther north of village #1 is a larger village at (291, 67, 113), we'll call th
 
 Directly below this village is a long, deep ravine, starting around depth Y 53
 
-[ravine_village_2]({{ site.url }}/assets/minecraft/ravine_village_2.jpg "The ravine below Village #2")
+[![ravine_village_2]({{ site.url }}/assets/minecraft/ravine_village_2.jpg "The ravine below Village #2")]({{ site.url }}/assets/minecraft/ravine_village_2.jpg)
 
 Note that I had trouble finding diamond near this village. There's a lot of lava down near the bedrock.
 
