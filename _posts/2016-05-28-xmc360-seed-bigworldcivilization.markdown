@@ -16,6 +16,8 @@ Here is the world map:
 
 [![world_map]({{ site.url }}/assets/minecraft/world_map.jpg "Screenshot of the World Map")]({{ site.url }}/assets/minecraft/world_map.jpg)
 
+I've grouped all the locations based on which village they are closest to.
+
 Village #1
 ==========
 Just to the south east of the spawn point is a small village at (36, 72, 369), we'll call this village #1.
@@ -80,6 +82,7 @@ Diamond:
 
 * (342, 3, -188) - 1 block
 
+Skeleton spawner: (365, 57, -207)
 
 Village #4
 ==========
@@ -109,8 +112,6 @@ Diamond:
 
 * (173, 13, -416) - 3 blocks
 
-
-
 Nether Fortress
 ===============
 A portal at (171, 68, 388) in the overworld should get you close to the blaze spawners.
@@ -128,11 +129,19 @@ Miscellaneous
 * Entrances to cave systems with exposed resources:
   * (119, 62, 27)
   * (101, 62, 109)
-* Portal to End (-47, 33, 139)
-* Skeleton spawner: (365, 57, -207)
+* Portal to End: (-47, 33, 139)
+* Another Zombie spawner: (-89, 27, 369)
 * Jungle biome with watermelon at (-19, 71, -388) (center of top of map).
+* Pumpkin Patch (-44, 70, 209)
 * Peony on an island at (-355, 70, -14)
-* I don't see any ocean temples or monuments.
+* Another user said there are cave spiders "about 20 blocks east of (137, 24, 375)".
 
+Does NOT Have
+=============
+* Ice spikes
+* Mega taiga
+* Mushroom island
+* Jungle temple
+* Ocean monument
 
 I'll continue to update this as I find more stuff!
