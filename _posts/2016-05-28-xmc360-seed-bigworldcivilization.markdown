@@ -30,7 +30,7 @@ Just over a nearby hill, there is an entrance to a cave system with a lot of exp
 
 This village is surrounded by *every* kind of animal--cows, sheep, pigs, chickens, wolves, and horses.
 
-Far down below the village is a skeleton spawner: (45, 18, 359) 
+Far down below the village is a skeleton spawner at (45, 18, 359). The chest in this spawner contains iron horse armor and two saddles.
 
 Diamond:
 
@@ -38,6 +38,7 @@ Diamond:
 * (37, 4, 367) - 3 blocks
 * (50, 6, 367) - 4 blocks
 * (-44, 4, 400)
+* (59, 16, 369) - 4 blocks (Near the skeleton spawner)
 
 Emerald:
 
