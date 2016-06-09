@@ -8,7 +8,15 @@ tags: catalytic converter, Pontiac, Trans Am, LS1, f-body, Camaro, O2 Sensor, re
 
 This series of posts will cover what I did to replace the driver side catalytic converter on 2002 Pontiac Trans Am. 
 
+![ws6_trans_am]({{ site.url }}/assets/ta_cat/penetrating_oil.jpg)
+
 (Note: It's a 4th gen f-body, so I believe it should be the same as any LS1 Firebird or Camaro from '98 - '02).
+
+I recorded the whole job and put it up on YouTube; below is a playlist of all the videos.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PL5ZijMzZWWhe09WfR8lttnx4CrMRcafPm" frameborder="0" allowfullscreen></iframe>
+
+I'm also recording all the details in a couple blog posts (starting with this one!).
 
 ## How it all began
 I had a "check engine" light come on, so I brought it in to a repair shop that I like, [Figueroa Auto Care](http://www.yelp.com/biz/figueroa-street-complete-auto-care-santa-barbara "Figueroa Auto Care on Yelp"). They said it'd be $50 to diagnose the problem. They used an OBD-II scanner and got the error code P0420. 
