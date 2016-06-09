@@ -6,7 +6,7 @@ relative_permalinks: false
 title:               Chris McCormick
 url:                 http://chrisdoesthings.com
 timezone:            America/Los_Angeles
-paginate:            1
+paginate:            5
 
 # Assets
 #

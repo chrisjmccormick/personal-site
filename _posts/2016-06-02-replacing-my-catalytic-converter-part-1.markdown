@@ -3,6 +3,7 @@ layout: post
 title:  "Replacing My Catalytic Converter - Part 1"
 date:   2016-06-02 22:00:00 -0800
 comments: true
+image: {{ site.url }}/assets/ta_cat/walker_converter.jpg
 tags: catalytic converter, Pontiac, Trans Am, LS1, f-body, Camaro, O2 Sensor, replace, gasket, exhaust
 ---
 
