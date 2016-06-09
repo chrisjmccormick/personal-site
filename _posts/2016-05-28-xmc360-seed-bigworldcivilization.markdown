@@ -3,7 +3,7 @@ layout: post
 title:  "Xbox 360 Minecraft Seed - bigworldcivilization"
 date:   2016-05-28 22:00:00 -0800
 comments: true
-image: {{ site.url }}/assets/minecraft/world_map.jpg
+image: /assets/minecraft/world_map.jpg
 tags: Xbox 360 Minecract, TU35, seed, minecraft
 ---
 
