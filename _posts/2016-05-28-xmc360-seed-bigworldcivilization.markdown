@@ -35,22 +35,24 @@ Far down below the village is a skeleton spawner at (45, 18, 359). The chest in 
 
 Diamond:
 
-* (26, 4, 401) - 4 blocks
-* (37, 4, 367) - 3 blocks
-* (50, 6, 367) - 4 blocks
-* (-44, 4, 400)
-* (59, 16, 369) - 4 blocks (Near the skeleton spawner)
+* ( 26,  4, 401) - 4 blocks
+* ( 37,  4, 367) - 3 blocks
+* ( 50,  6, 367) - 4 blocks
+* (-44,  4, 400) 
+* ( 59, 16, 369) - 4 blocks (Near the skeleton spawner)
+* (  9,  8, 368) - 6 blocks 
 
 Emerald:
 
-* (-2, 6, 396)
+* ( -2, 6, 396)
+* (-11, 9, 383)
 
 Gold:
 
 * (-65, 18, 396)
-* (24, 24, 357)
-* (34, 14, 318) - 7 blocks
-* (41, 14, 335)
+* ( 24, 24, 357)
+* ( 34, 14, 318) - 7 blocks
+* ( 41, 14, 335)
 
 
 Village #2
