@@ -7,7 +7,7 @@ image: https://c1.staticflickr.com/8/7329/12044401565_3c3c85bf82_k.jpg
 tags: 1 Kings, Low Motivation, Depression, Solomon, Adonijah
 ---
 
-[![Standing against the waves](https://c1.staticflickr.com/8/7329/12044401565_3c3c85bf82_k.jpg)](https://www.flickr.com/photos/chrismcc/12044401565/in/dateposted-public/)
+Some reflections on a part of the story in 1 Kings Chapter 1.
 
 *Insights*
 
@@ -22,6 +22,8 @@ There's something notably missing from this drama over who gets the throne. We d
 The Bible doesn't appear to say anything about Solomon's reaction to all of this, but I'd like to think that this was an act of faith on Solomon's part. That Solomon trusted God, and his father David, to deliver on the promise that he would be the next king.
 
 How else would he keep his composure? If I were Solomon, I think I would have been freaking out. I was supposed to be made king, and now my brother has claimed that title and has powerful supporters. My father hasn't done anything about it--he's grown so weak, and it seems like it's getting more and more difficult to arouse his interest in anything. If Adonijah keeps his position, I'm not sure what's going to happen to me. I doubt Adonijah is just going to ignore a potential threat to his rule and leave me alone... What a huge reversal in fortune! From "next king" to "enemy of the state".
+
+[![Standing against the waves](https://c1.staticflickr.com/8/7329/12044401565_3c3c85bf82_k.jpg)](https://www.flickr.com/photos/chrismcc/12044401565/in/dateposted-public/)
 
 *Reflection*
 
