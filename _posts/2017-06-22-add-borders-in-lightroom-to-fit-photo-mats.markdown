@@ -9,7 +9,7 @@ tags: Lightroom, photography, photo mat, border, print, print bleed
  
 This tutorial will walk you through all the steps needed to properly crop, size, and add borders to your photo in order to create a print that will fit properly into the opening of a photo mat. This tutorial is specific to Lightroom--we'll be using Lightroom's Print module to accomplish a few key steps.
  
-[![Screenshot of the print with border in Lightroom][[full_screenshot]][full_screenshot]
+[![Screenshot of the print with border in Lightroom][full_screenshot]][full_screenshot]
  
 Whenever I decide to make a print of one our photos, with the intention of mounting it in a frame with a mat to border it, I run into the same puzzle of reconciling all the different aspect ratios, and the need for a small printing bleed.
  
@@ -33,7 +33,7 @@ Once you have a print size, you need to find a mat that fits your frame and your
  
 ![Price tag for my 10x13 photo mat from Aaron Brothers][ab_price_tag]
  
-I buy my mats locally from an actual brick and mortar Aaron Brothers. On Amazon, it seems like you have to buy a 10-pack to get a good price. The prices for picture mats on Amazon don't seem to be very good unless you want a 10-pack. 
+I buy my mats locally from an actual brick and mortar Aaron Brothers. On Amazon, it seems like you have to buy a 10-pack to get a good price.
 
 ## Step 2: Crop the photo
 If the opening in your mat doesn't match the 3:2 ratio of your SLR, you're going to have crop the photo to the right proportions.
@@ -89,7 +89,9 @@ Taping the pictures to the back of the matte can be a little tricky. You're look
 
 One trick that's worked for me--find a mirror in your house with a table underneath, and lean the front of the mat against the mirror. This way, you can see the picture in the mirror and tell if you've got it lined up right!
 
-## Enjoy your framed prints!
+### Enjoy your framed prints!
+
+<br/>
 
 [full_screenshot]: {{ site.url }}/assets/LR_border/Full_screenshot_AllFields.png
 [ab_price_tag]: {{ site.url }}/assets/LR_border/Aaron_brothers_photo_mat.JPG
