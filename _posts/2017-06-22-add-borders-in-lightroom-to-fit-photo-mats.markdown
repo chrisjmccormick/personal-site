@@ -3,7 +3,7 @@ layout: post
 title:  "Add Borders in Lightroom to Fit Photo Mats"
 date:   2017-06-22 22:00:00 -0800
 comments: true
-image: {{ site.url }}/assets/LR_border/Full_screenshot_AllFields.png
+image: /assets/LR_border/Full_screenshot_AllFields.png
 tags: Lightroom, photography, photo mat, border, print, print bleed
 ---
  
