@@ -5,9 +5,12 @@ date:   2017-06-22 22:00:00 -0800
 comments: true
 image: /assets/LR_border/Full_screenshot_AllFields.png
 tags: Lightroom, photography, photo mat, border, print, print bleed
+excerpt_separator: <!--more-->
 ---
  
 This tutorial will walk you through all the steps needed to properly crop, size, and add borders to your photo in order to create a print that will fit properly into the opening of a photo mat. This tutorial is specific to Lightroom--we'll be using Lightroom's Print module to accomplish a few key steps.
+ 
+<!--more--> 
  
 [![Screenshot of the print with border in Lightroom][full_screenshot]][full_screenshot]
  
