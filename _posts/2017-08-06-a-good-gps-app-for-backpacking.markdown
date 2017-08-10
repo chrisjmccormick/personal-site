@@ -3,7 +3,7 @@ layout: post
 title:  "A Good GPS App for Backpacking"
 date:   2017-08-06 22:00:00 -0800
 comments: true
-image: 
+image: {{ site.url }}/assets/dinkey_lakes_2017/Screenshot_1_First_Dinkey_2D.PNG
 tags: backpacking, hiking, GPS, app,
 ---
 I discovered recently (and I'm really late to the party on this) that modern smart phones actually have a full-fledged GPS chip in them--I had always assumed they just triangulated your position from cell towers or something like that, and that you'd need to have cell service or wifi for location stuff to work. Not the case! Your iPhone always knows where it is by talking to satellites in space :).
@@ -27,8 +27,27 @@ It provides access to multiple maps databases, so you can check out your options
 It was a lot of fun to use. With it, we could see how much farther we had to hike, what the elevation change was like, and of course whether we were still on the right trail. 
 
 We also hadn't made firm plans on where we would stop each night, so it helped us make those decisions on the trail based on how we were feeling. 
-It also helped usand we even adjusted some of o
 
-Here are our hikes!
+Here are some screenshots from our first hike on the Dinkey Lakes trail. 
 
-Day one, we hit the trail in the early afternoon and hiked a couple hours in to first Dinkey Lake
+This is the 3D view of our hike to First Dinkey Lake (in the app you can move it all around to see the terrain from different angles!)
+
+[![3D topo map of our fisrt hike][3d_topo]][3d_topo]
+
+Here's the 2D overhead view. Note that the trails are there on the map, but the app doesn't know that you're on the trail or where you're heading, so if you want to know how far two points are away from each other you really just have to estimate distances using the map legend.
+
+[![2D view of the topo map][2d_topo]][2d_topo]
+
+And here's the summary report on the hike.
+
+[![Summary statistics on our first hike][summary]][summary]
+
+That summary view is a little hidden--I didn't find it till after we got home. You go to the menu, then to "Track List", then click the info (i) button next to your hike to see this summary. 
+
+Also, when you're in the middle of a hike, you can see these details by going to the Track List and you'll see a track named "Recording"--view it's info to see how far you've hiked so far, etc.
+
+
+
+[3d_topo]: {{ site.url }}/assets/dinkey_lakes_2017/Screenshot_0_First_Dinkey_3D.PNG
+[2d_topo]: {{ site.url }}/assets/dinkey_lakes_2017/Screenshot_1_First_Dinkey_2D.PNG
+[summary]: {{ site.url }}/assets/dinkey_lakes_2017/Screenshot_2_First_Dinkey_Summary.PNG
