@@ -3,7 +3,7 @@ layout: post
 title:  "A Good GPS App for Backpacking"
 date:   2017-08-06 22:00:00 -0800
 comments: true
-image: {{ site.url }}/assets/dinkey_lakes_2017/Screenshot_1_First_Dinkey_2D.PNG
+image: /assets/dinkey_lakes_2017/Screenshot_1_First_Dinkey_2D.PNG
 tags: backpacking, hiking, GPS, app,
 ---
 I discovered recently (and I'm really late to the party on this) that modern smart phones actually have a full-fledged GPS chip in them--I had always assumed they just triangulated your position from cell towers or something like that, and that you'd need to have cell service or wifi for location stuff to work. Not the case! Your iPhone always knows where it is by talking to satellites in space :).
