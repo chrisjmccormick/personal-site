@@ -18,9 +18,7 @@ AllTrails.com seems to be taking over the backpacking seen, and they have an app
 
 Gaia is an app that I read a blog post on, and it sounded good, but the app is $20. I probably would have sprung for that if it was the best option, but I found something good that was much cheaper.
 
-Maps 3D Pro is $4 on iTunes and is just what I was looking for at an attractive price.
-
-https://itunes.apple.com/us/app/maps-3d-pro-gps-for-bike-hike-ski-outdoor/id391304000?mt=8
+Maps 3D Pro $4 [on iTunes](https://itunes.apple.com/us/app/maps-3d-pro-gps-for-bike-hike-ski-outdoor/id391304000?mt=8) and is just what I was looking for at an attractive price.
 
 It provides access to multiple maps databases, so you can check out your options. The USGS Maps had the most detailed trails and landmark names for our trip, so I used that for our trip.
 
