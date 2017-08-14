@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Dinkey Lakes Backpacking Trip"
-date:   2017-08-14 14:00:00 -0800
+date:   2017-08-04 14:00:00 -0800
 comments: true
 image: /assets/dinkey_lakes_2017/Screenshot_1_First_Dinkey_2D.PNG
 tags: backpacking, hiking, Dinkey Lakes, Sierras
@@ -29,15 +29,29 @@ I loved the wild flowers on the shore of First Dinkey, and I'm glad we camped th
 
 This lake had some downsides, though. The campsites are set back a ways from the lake in a more wooded area, so you don't have the sweeping views of the lake and mountains that you'll see at other lakes. And with all the rain this year, the shore was rather swampy, so we had to walk a ways down the shore to get to a good spot for reaching the water. The mosquitos were worse here than at Island lake, especially down by the lake edge.
 
+One of the guys made these awesome pizza rolls wrapped in aluminum foil that we baked in the coals of our campfire. Soooo good!
+
 ## Hike to Island Lake
 
-We weren't sure where we wanted to go next--whether to stay on the loop and head to one of the lakes on the south side, or follow an off-shoot trail and get closer to the Three Sisters. We passed a few groups that all recommended Island Lake, and I'm glad we took their advice.
+[![Island Lake][island_lake]][island_lake]
 
-[![Stats on hike to Island Lake][island_lake_summary]][island_lake_summary]
+After packing up camp Sunday morning, we weren't sure where we wanted to go next--whether to stay on the loop and head to one of the lakes on the south side, or follow an off-shoot trail and get closer to the Three Sisters. We passed a few groups that all recommended Island Lake, and I'm glad we took their advice.
+
+Even though it's a fairly short hike, we definitely felt the elevation gain.
+
+[![Stats on hike to Island Lake][island_lake_summary]][island_lake_summary] 
+
+[![Topo map of hike to Island Lake][island_lake_topo_small]][island_lake_topo_full]
+
+Next to some good conversations over the campfire, swimming between the tiny islands was my favorite experience of the whole trip. The water was pretty cold, but warm enough to swim in it for 10 or 15 minutes.
 
 [![The shore of the far side of Island Lake][island_lake_far_side_small]][island_lake_far_side_full]
 
-Next to some good conversations over the campfire, swimming between the tiny islands was my favorite experience of the whole trip. The water was pretty cold, but warm enough to swim in it for 10 or 15 minutes.
+A thunderstorm rolled in that evening (we never saw the lightning, but we heard it!), proving once again that mountain weather is totally unpredictable. We scrambled to protect our gear and dig trenches around our tents (it looked like we were going to get *dumped* on), but it turned out to only be a little drizzle before it passed us by. 
+
+[![The thunderstorm made for a nice sunset][island_lake_sunset]][island_lake_sunset]
+
+Once the storm had passed, we spent the evening lying on the rock, gazing at the stars, and passing around some Laphroig. 
 
 ## Summit of the middle peak in Three Sisters
 
@@ -63,16 +77,20 @@ There are some pretty steep switchbacks on the western end of the southern loop-
 Here are a few notes and suggestions on getting to the trailhead:
 
 * The roads leading to the trailhead are all numbered forest service roads, and the junctions were actually well-labelled. 
-* There's no cell service up there, but if you're using Google Maps, you can actually [download the map data](https://support.google.com/maps/answer/6291838?co=GENIE.Platform%3DiOS&hl=en for the area ahead of time, and the GPS in your phone will allow you to continue to view your position on the map. The downloaded maps data *does* includes both the simple map and the satellite images.
+* There's no cell service up there, but if you're using Google Maps, you can actually [download the map data](https://support.google.com/maps/answer/6291838?co=GENIE.Platform%3DiOS&hl=en) for the area ahead of time, and the GPS in your phone will allow you to continue to view your position on the map. The downloaded maps data *does* includes both the simple map and the satellite images.
 * There was actually a downed bridge when we went that was preventing you from taking the normal route to the trailhead. At the ranger's station, though, they gave us a photocopy of a map with an alternate route outlined. The alternate route followed some forest service roads that aren't in Google's map data, but using the satellite view I was able to see the road and correlate that with the printed map to track our progress.
 
 [1st_dinkey_map]: {{ site.url }}/assets/dinkey_lakes_2017/Screenshot_1_First_Dinkey_2D.PNG
 [1st_dinkey_summary]: {{ site.url }}/assets/dinkey_lakes_2017/Screenshot_2_First_Dinkey_Summary_Small.PNG
 [1st_dinkey_pano]: {{ site.url }}/assets/dinkey_lakes_2017/First_Dinkey_Lake_Panorama.jpg
 
+[island_lake]: {{ site.url }}/assets/dinkey_lakes_2017/Island_Lake.jpg
 [island_lake_summary]: {{ site.url }}/assets/dinkey_lakes_2017/Screenshot_Island_Lake_Summary_Small.PNG
+[island_lake_topo_small]: {{ site.url }}/assets/dinkey_lakes_2017/Topo_Hike_To_Island_Lake_Small.PNG
+[island_lake_topo_full]: {{ site.url }}/assets/dinkey_lakes_2017/Topo_Hike_To_Island_Lake_Full.PNG
 [island_lake_far_side_small]: {{ site.url }}/assets/dinkey_lakes_2017/Dinkey_Lake_Far_Side_Small.jpg
 [island_lake_far_side_full]: {{ site.url }}/assets/dinkey_lakes_2017/Dinkey_Lake_Far_Side_Full.jpg
+[island_lake_sunset]: {{ site.url }}/assets/dinkey_lakes_2017/Island_Lake_Sunset.jpg
 
 [middle_sister_pano]: {{ site.url }}/assets/dinkey_lakes_2017/Middle_Sister_Panorama.jpg
 [middle_sister_summary]: {{ site.url }}/assets/dinkey_lakes_2017/Screenshot_Middle_Sister_Small.PNG
