@@ -3,7 +3,7 @@ layout: post
 title:  "Dinkey Lakes Backpacking Trip"
 date:   2017-08-04 14:00:00 -0800
 comments: true
-image: /assets/dinkey_lakes_2017/Screenshot_1_First_Dinkey_2D.PNG
+image: /assets/dinkey_lakes_2017/Island_Lake.jpg
 tags: backpacking, hiking, Dinkey Lakes, Sierras
 ---
 
