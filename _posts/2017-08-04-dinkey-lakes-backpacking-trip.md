@@ -25,7 +25,7 @@ For our first day on the trail, we chose to follow the northern side of the loop
 
 I loved the wild flowers on the shore of First Dinkey, and I'm glad we camped there if only because it meant I could shoot the mountains and the flowers in the early morning light.
 
-[![Panorama of First Dinkey Lake][1st_dinkey_pano]][1st_dinkey_pano]
+[![Panorama of First Dinkey Lake][1st_dinkey_pano_small]][1st_dinkey_pano]
 
 This lake had some downsides, though. The campsites are set back a ways from the lake in a more wooded area, so you don't have the sweeping views of the lake and mountains that you'll see at other lakes. And with all the rain this year, the shore was rather swampy, so we had to walk a ways down the shore to get to a good spot for reaching the water. The mosquitos were worse here than at Island lake, especially down by the lake edge.
 
@@ -72,6 +72,12 @@ Monday morning, we returned to the loop and hiked the southern half of the loop 
 
 There are some pretty steep switchbacks on the western end of the southern loop--it would be pretty brutal to start on the south side of the loop (rather than the north, like we did). 
 
+Here's South Lake on the way out:
+[![South Lake on Dinkey Lakes Trail][south_lake_pano]][south_lake_pano]
+
+And Swede Lake:
+[![Swede Lake on Dinkey Lakes Trail][swede_lake_pano]][swede_lake_pano]
+
 ## Tips for getting to the trailhead
 
 Here are a few notes and suggestions on getting to the trailhead:
@@ -83,6 +89,7 @@ Here are a few notes and suggestions on getting to the trailhead:
 [1st_dinkey_map]: {{ site.url }}/assets/dinkey_lakes_2017/Screenshot_1_First_Dinkey_2D.PNG
 [1st_dinkey_summary]: {{ site.url }}/assets/dinkey_lakes_2017/Screenshot_2_First_Dinkey_Summary_Small.PNG
 [1st_dinkey_pano]: {{ site.url }}/assets/dinkey_lakes_2017/First_Dinkey_Lake_Panorama.jpg
+[1st_dinkey_pano_small]: {{ site.url }}/assets/dinkey_lakes_2017/First_Dinkey_Lake_Panorama_Small.jpg
 
 [island_lake]: {{ site.url }}/assets/dinkey_lakes_2017/Island_Lake.jpg
 [island_lake_summary]: {{ site.url }}/assets/dinkey_lakes_2017/Screenshot_Island_Lake_Summary_Small.PNG
@@ -94,3 +101,6 @@ Here are a few notes and suggestions on getting to the trailhead:
 
 [middle_sister_pano]: {{ site.url }}/assets/dinkey_lakes_2017/Middle_Sister_Panorama.jpg
 [middle_sister_summary]: {{ site.url }}/assets/dinkey_lakes_2017/Screenshot_Middle_Sister_Small.PNG
+
+[south_lake_pano]: {{ site.url }}/assets/dinkey_lakes_2017/South_Lake_Panorama.jpg
+[swede_lake_pano]: {{ site.url }}/assets/dinkey_lakes_2017/Swede_Lake_Panorama.jpg
