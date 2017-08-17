@@ -3,7 +3,7 @@ layout: post
 title:  "Dinkey Lakes Backpacking Trip"
 date:   2017-08-04 14:00:00 -0800
 comments: true
-image: /assets/dinkey_lakes_2017/Island_Lake.jpg
+image: /assets/dinkey_lakes_2017/Island_Lake_Small.jpg
 tags: backpacking, hiking, Dinkey Lakes, Sierras
 ---
 
@@ -33,7 +33,7 @@ One of the guys made these awesome pizza rolls wrapped in aluminum foil that we 
 
 ## Hike to Island Lake
 
-[![Island Lake][island_lake]][island_lake]
+[![Island Lake][island_lake_small]][island_lake]
 
 After packing up camp Sunday morning, we weren't sure where we wanted to go next--whether to stay on the loop and head to one of the lakes on the south side, or follow an off-shoot trail and get closer to the Three Sisters. We passed a few groups that all recommended Island Lake, and I'm glad we took their advice.
 
@@ -92,6 +92,7 @@ Here are a few notes and suggestions on getting to the trailhead:
 [1st_dinkey_pano_small]: {{ site.url }}/assets/dinkey_lakes_2017/First_Dinkey_Lake_Panorama_Small.jpg
 
 [island_lake]: {{ site.url }}/assets/dinkey_lakes_2017/Island_Lake.jpg
+[island_lake_small]: {{ site.url }}/assets/dinkey_lakes_2017/Island_Lake_Small.jpg
 [island_lake_summary]: {{ site.url }}/assets/dinkey_lakes_2017/Screenshot_Island_Lake_Summary_Small.PNG
 [island_lake_topo_small]: {{ site.url }}/assets/dinkey_lakes_2017/Topo_Hike_To_Island_Lake_Small.PNG
 [island_lake_topo_full]: {{ site.url }}/assets/dinkey_lakes_2017/Topo_Hike_To_Island_Lake_Full.PNG
