@@ -71,6 +71,7 @@ The view was pretty spectacular, but the steepness of the mountain top really st
 Monday morning, we returned to the loop and hiked the southern half of the loop back out to the trailhead.
 
 [![Stats on hike out][hike_out_summary_small]][hike_out_summary_full] 
+[![Topo map of our hike out][[hike_out_topo_small]][hike_out_topo_full]
 
 There are some pretty steep switchbacks on the western end of the southern loop--it would be pretty brutal to start on the south side of the loop (rather than the north, like we did). 
 
@@ -108,5 +109,7 @@ Here are a few notes and suggestions on getting to the trailhead:
 
 [hike_out_summary_full]: {{ site.url }}/assets/dinkey_lakes_2017/Screenshot_Hike_Out_Summary_Full.PNG
 [hike_out_summary_small]: {{ site.url }}/assets/dinkey_lakes_2017/Screenshot_Hike_Out_Summary_Small.PNG
+[hike_out_topo_full]: {{ site.url }}/assets/dinkey_lakes_2017/Topo_Hike_Out_Full.PNG
+[hike_out_topo_small]: {{ site.url }}/assets/dinkey_lakes_2017/Topo_Hike_Out_Small.PNG
 [south_lake_pano]: {{ site.url }}/assets/dinkey_lakes_2017/South_Lake_Pano.jpg
 [swede_lake_pano]: {{ site.url }}/assets/dinkey_lakes_2017/Swede_Lake_Pano.jpg
