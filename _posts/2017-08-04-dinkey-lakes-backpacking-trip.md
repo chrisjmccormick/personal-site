@@ -39,13 +39,13 @@ After packing up camp Sunday morning, we weren't sure where we wanted to go next
 
 Even though it's a fairly short hike, we definitely felt the elevation gain.
 
-[![Stats on hike to Island Lake][island_lake_summary]][island_lake_summary] 
-
-[![Topo map of hike to Island Lake][island_lake_topo_small]][island_lake_topo_full]
+[![Stats and topo map of hike to Island Lake][island_lake_summary_small]][island_lake_summary_full] 
 
 Next to some good conversations over the campfire, swimming between the tiny islands was my favorite experience of the whole trip. The water was pretty cold, but warm enough to swim in it for 10 or 15 minutes.
 
 [![The shore of the far side of Island Lake][island_lake_far_side_small]][island_lake_far_side_full]
+
+It was at island lake where we finally realized that my MSR filter needed to be cleaned more often than I would think. When the filter gets clogged, weird things start to happen with the pump--it gets super hard to pump, and you start seeing air in the intake hose. This weird behavior made me suspect an issue with one of the valves or something. Really, though, the filter just needs to be cleaned fairly often--we cleaned the filter with a scouring pad like you're supposed to and suddenly the pump was as smooth as butter! I didn't measure how much water we could pump before needing to clean, but I think it was honestly only about 4 litres of water--much less than I would have thought. Maybe it's the snow melt, picking up minerals from the mountain rock as it makes its way down from the peak? Anyway, I'm glad we figured that out--I'll never waste energy trying to pump with a clogged filter again!
 
 A thunderstorm rolled in that evening (we never saw the lightning, but we heard it!), proving once again that mountain weather is totally unpredictable. We scrambled to protect our gear and dig trenches around our tents (it looked like we were going to get *dumped* on), but it turned out to only be a little drizzle before it passed us by. 
 
@@ -70,6 +70,8 @@ The view was pretty spectacular, but the steepness of the mountain top really st
 ## Hike out from Island Lake
 Monday morning, we returned to the loop and hiked the southern half of the loop back out to the trailhead.
 
+[![Stats on hike out][hike_out_summary_small]][hike_out_summary_full] 
+
 There are some pretty steep switchbacks on the western end of the southern loop--it would be pretty brutal to start on the south side of the loop (rather than the north, like we did). 
 
 Here's South Lake on the way out:
@@ -93,7 +95,8 @@ Here are a few notes and suggestions on getting to the trailhead:
 
 [island_lake]: {{ site.url }}/assets/dinkey_lakes_2017/Island_Lake.jpg
 [island_lake_small]: {{ site.url }}/assets/dinkey_lakes_2017/Island_Lake_Small.jpg
-[island_lake_summary]: {{ site.url }}/assets/dinkey_lakes_2017/Screenshot_Island_Lake_Summary_Small.PNG
+[island_lake_summary_small]: {{ site.url }}/assets/dinkey_lakes_2017/Screenshot_Island_Lake_Summary_and_Map_Small.png
+[island_lake_summary_large]: {{ site.url }}/assets/dinkey_lakes_2017/Screenshot_Island_Lake_Summary_and_Map_Full.png
 [island_lake_topo_small]: {{ site.url }}/assets/dinkey_lakes_2017/Topo_Hike_To_Island_Lake_Small.PNG
 [island_lake_topo_full]: {{ site.url }}/assets/dinkey_lakes_2017/Topo_Hike_To_Island_Lake_Full.PNG
 [island_lake_far_side_small]: {{ site.url }}/assets/dinkey_lakes_2017/Dinkey_Lake_Far_Side_Small.jpg
@@ -103,5 +106,7 @@ Here are a few notes and suggestions on getting to the trailhead:
 [middle_sister_pano]: {{ site.url }}/assets/dinkey_lakes_2017/Middle_Sister_Panorama.jpg
 [middle_sister_summary]: {{ site.url }}/assets/dinkey_lakes_2017/Screenshot_Middle_Sister_Small.PNG
 
-[south_lake_pano]: {{ site.url }}/assets/dinkey_lakes_2017/South_Lake_Panorama.jpg
-[swede_lake_pano]: {{ site.url }}/assets/dinkey_lakes_2017/Swede_Lake_Panorama.jpg
+[hike_out_summary_full]: {{ site.url }}/assets/dinkey_lakes_2017/Screenshot_Hike_Out_Summary_Full.PNG
+[hike_out_summary_small]: {{ site.url }}/assets/dinkey_lakes_2017/Screenshot_Hike_Out_Summary_Small.PNG
+[south_lake_pano]: {{ site.url }}/assets/dinkey_lakes_2017/South_Lake_Pano.jpg
+[swede_lake_pano]: {{ site.url }}/assets/dinkey_lakes_2017/Swede_Lake_Pano.jpg
