@@ -71,7 +71,7 @@ The view was pretty spectacular, but the steepness of the mountain top really st
 Monday morning, we returned to the loop and hiked the southern half of the loop back out to the trailhead.
 
 [![Stats on hike out][hike_out_summary_small]][hike_out_summary_full] 
-[![Topo map of our hike out][[hike_out_topo_small]][hike_out_topo_full]
+[![Topo map of our hike out][hike_out_topo_small]][hike_out_topo_full]
 
 There are some pretty steep switchbacks on the western end of the southern loop--it would be pretty brutal to start on the south side of the loop (rather than the north, like we did). 
 
