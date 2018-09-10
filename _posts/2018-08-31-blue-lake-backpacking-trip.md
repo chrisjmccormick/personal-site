@@ -108,7 +108,7 @@ We stopped at The Burger Barn in Bishop; it's a quirky place with a fun menu. I 
 [blue_lake_pano]: {{ site.url }}/assets/blue_lake_2018/blue_lake_pano.jpg
 [blue_lake_2]: {{ site.url }}/assets/blue_lake_2018/Blue_Lake_2.jpg
 [gps_blue_lake]: {{ site.url }}/assets/blue_lake_2018/gps_trailhead_to_blue_lake.jpg
-[trail_blue_to_baboon]: {{ site.url }}/assets/blue_lake_2018/inked_trail_to_baboon.jpg
+[trail_blue_to_baboon]: {{ site.url }}/assets/blue_lake_2018/trail_blue_to_baboon.jpg
 [gps_blue_to_baboon]: {{ site.url }}/assets/blue_lake_2018/gps_blue_to_baboon.jpg
 [creek_to_sunset]: {{ site.url }}/assets/blue_lake_2018/creek_to_sunset.jpg
 [fishing_below_baboon]: {{ site.url }}/assets/blue_lake_2018/fishing_below_baboon.jpg
