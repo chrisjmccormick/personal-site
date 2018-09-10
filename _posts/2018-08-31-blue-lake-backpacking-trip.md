@@ -50,19 +50,19 @@ Here's the GPS data from our hike from the trailhead to Blue Lake. Note that it 
 
 From Blue Lake, you can choose to explore one of two valleys in the area. For this trip, we chose the eastern valley with Donkey Lake and Baboon Lakes. 
 
-There is actually a well-worn trail up to Baboon Lakes from Blue Lake that didn't appear on my USGS topo map, but did appear on the paper map we got from the ranger station.
+There's a well-worn trail from Blue Lake that goes to Baboon but doesn't actually go by Donkey Lake. Donkey didn't look particularly interesting, though, to be honest.
 
-[![Map showing trail to Baboon Lakes][trail_to_baboon]][trail_to_baboon]
+The trail we followed didn't appear in my gps app, but did appear on the paper map we got from the ranger station. Here's both. 
 
-It's a steep hike up, and feels like it might be a trail to one of the peaks rather than Baboon--add that to it being a hard trail to follow and we almost had a mutiny on our hands :).
+[![GPS data and map showing trail to Baboon Lakes][trail_blue_to_baboon]][trail_blue_to_baboon]
 
-Here's the route we took. It's a very clear trail up until the last quarter of it--you can see how we lost the trail towards the end.
+We had trouble finding the trail towards the end; it's frustrating, but that's what makes it an adventure!
 
-[![GPS data from Blue Lake to Baboon Lakes][gps_blue_to_baboon]][gps_blue_to_baboon]
-
-Man, was it worth it, though! We had the place to ourselves--there's nothing quite like drinking in all this beauty and knowing that you're the only souls for miles around to enjoy it.
+And, man, was it worth it! 
 
 [![Shot of Baboon Lake][baboon_lake]][baboon_lake]
+
+We had the place to ourselves--there's nothing quite like drinking in all this beauty and knowing that you're the only souls for miles around to enjoy it.
 
 [![Panorama of Baboon Lakes][baboon_pano]][baboon_pano]
 
@@ -75,7 +75,7 @@ And the view down towards Baboon Lakes was one of my favorites of the trip!
 
 [![Looking down from Sunset][sunset_view_down]][sunset_view_down]
 
-There's no established trail, but if you follow the creek it's not hard to pick your way up. It does help to have a GPS app to give you confidence, though :).
+There's no established trail, but if you follow the creek it's not hard to pick your way up. It does help to have a GPS app to give you confidence, though :). (Note that the gps data here is for the round-trip).
 
 [![GPS data for hike to Sunset and back][gps_baboon_to_sunset]][gps_baboon_to_sunset]
 
@@ -107,20 +107,16 @@ We stopped at The Burger Barn in Bishop; it's a quirky place with a fun menu. I 
 [blue_lake_1]: {{ site.url }}/assets/blue_lake_2018/Blue_Lake_1.jpg
 [blue_lake_pano]: {{ site.url }}/assets/blue_lake_2018/blue_lake_pano.jpg
 [blue_lake_2]: {{ site.url }}/assets/blue_lake_2018/Blue_Lake_2.jpg
-
 [gps_blue_lake]: {{ site.url }}/assets/blue_lake_2018/gps_trailhead_to_blue_lake.jpg
-
-[trail_to_baboon]: {{ site.url }}/assets/blue_lake_2018/inked_trail_to_baboon.jpg
-
+[trail_blue_to_baboon]: {{ site.url }}/assets/blue_lake_2018/inked_trail_to_baboon.jpg
 [gps_blue_to_baboon]: {{ site.url }}/assets/blue_lake_2018/gps_blue_to_baboon.jpg
-
 [creek_to_sunset]: {{ site.url }}/assets/blue_lake_2018/creek_to_sunset.jpg
-
 [fishing_below_baboon]: {{ site.url }}/assets/blue_lake_2018/fishing_below_baboon.jpg
 [sunset_view_down]: {{ site.url }}/assets/blue_lake_2018/sunset_view_down.jpg
 [gps_baboon_to_sunset]: {{ site.url }}/assets/blue_lake_2018/gps_baboon_to_sunset.jpg
 [sunset_lake_pano]: {{ site.url }}/assets/blue_lake_2018/sunset_lake_pano.jpg
 [cleaned_trout]: {{ site.url }}/assets/blue_lake_2018/cleaned_trout.jpg
 [baboon_lake]: {{ site.url }}/assets/blue_lake_2018/baboon_lake.jpg
-
+[baboon_pano]: {{ site.url }}/assets/blue_lake_2018/baboon_pano.jpg
 [sabrina_hike_out]: {{ site.url }}/assets/blue_lake_2018/sabrina_hike_out.jpg
+[burger_barn]: {{ site.url }}/assets/blue_lake_2018/burger_barn.jpg
