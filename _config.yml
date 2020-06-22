@@ -30,6 +30,7 @@ github:
 pages_list:       
   About: '/about/'
   Auto: '/auto/'
+  Store: 'https://www.chrismccormick.ai/store'
   Archive: '/archive/'
 
 # Gems
